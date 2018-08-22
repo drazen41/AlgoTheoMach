@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="w3"/>
+	<classpathentry kind="src" path="w2"/>
 	<classpathentry kind="src" path="w1"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="D:/Backup/git/Coursera/Algorithms/algs4.jar"/>
