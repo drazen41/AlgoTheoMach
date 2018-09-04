@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="w5"/>
+	<classpathentry kind="src" path="w4"/>
 	<classpathentry kind="src" path="w3"/>
 	<classpathentry kind="src" path="w2"/>
 	<classpathentry kind="src" path="w1"/>

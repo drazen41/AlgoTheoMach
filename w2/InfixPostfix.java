@@ -21,7 +21,7 @@ public class InfixPostfix {
 	public String infixToPostfix(String inString) {
 		String outString = "";
 		String[] strings = inString.split(",");
-		char[] characters = inString.toCharArray();
+		
 		for (int i = 0; i < strings.length; i++) {
 			String token = strings[i];
 			if (token.equals("(")) {
