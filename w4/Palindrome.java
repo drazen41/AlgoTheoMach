@@ -25,9 +25,9 @@ public class Palindrome {
 				itis = true;
 			}
 			if (itis) {
-				StdOut.println(string + "is a palindrome");
+				StdOut.println(string + " is a palindrome");
 			} else {
-				StdOut.println(string + "is not a palindrome");
+				StdOut.println(string + " is not a palindrome");
 			}
 			StdOut.println();
 			
